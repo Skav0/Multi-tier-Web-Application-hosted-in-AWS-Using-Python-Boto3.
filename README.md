@@ -1,4 +1,4 @@
-# Multi-tier-Web-Application-hosted-in-AWS-Using-Python-Boto3-.
+# Multi-tier-Web-Application-hosted-in-AWS-Using-Python-Boto3.
 Creating a highly, auto scaled web app on aws cloud using python and boto3 library.
 
 We will follow an architecture that we used in a previous repo to create a the same up but using the aws console. And right now, we will do the same thing but using boto3.
