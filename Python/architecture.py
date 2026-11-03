@@ -20,8 +20,8 @@ rvpc = client.create_vpc(
 
 subnets=[{'az':'us-east-1b','cidr':'192.168.10.0/24'},
          {'az':'us-east-1a','cidr':'192.168.20.0/24'},
-         {'az':'us-east-1b','cidr':'192.168.30.0/24'},
-         {'az':'us-east-1a','cidr':'192.168.40.0/24'}
+         {'az':'us-east-1b','cidr':'192.168.100.0/24'},
+         {'az':'us-east-1a','cidr':'192.168.200.0/24'}
          
          
          ]
